@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt D" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift control alt J" />
+    <keyboard-shortcut first-keystroke="control alt D" />
+    <keyboard-shortcut first-keystroke="alt F3" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt J" />
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt J" />
+    <keyboard-shortcut first-keystroke="shift control D" />
+  </action>
+</keymap>
