@@ -18,6 +18,9 @@
   <JSCodeStyleSettings>
     <option name="OBJECT_LITERAL_WRAP" value="2" />
   </JSCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
