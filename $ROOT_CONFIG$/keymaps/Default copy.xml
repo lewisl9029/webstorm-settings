@@ -2,8 +2,15 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt D" />
   </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift alt D" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control alt L" />
+    <keyboard-shortcut first-keystroke="shift control alt CAPS_LOCK" />
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift control alt J" />
